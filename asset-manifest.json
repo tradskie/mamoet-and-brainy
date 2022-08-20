@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.030e71fc.css",
-    "main.js": "/static/js/main.cd8a5751.js",
+    "main.css": "/static/css/main.86c1fdf4.css",
+    "main.js": "/static/js/main.f566a047.js",
+    "static/media/cropsfarmer2.PNG": "/static/media/cropsfarmer2.a29a43e0e2e8591ba3fd.PNG",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/audit.png": "/static/media/audit.4767bf2a0902cf1515f7.png",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/logo.png": "/static/media/logo.02f055dd4d03730f7e7e.png",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/intro-bg.PNG": "/static/media/intro-bg.45044b07c7cedf9aef28.PNG",
+    "static/media/Dino.png": "/static/media/Dino.608600cca32d520cbe36.png",
     "static/media/intro-bg-phone.jpg": "/static/media/intro-bg-phone.a5a287b8926275adacca.jpg",
     "static/media/twitter.svg": "/static/media/twitter.38217ad956509e9a417a2d43a4b3da83.svg",
     "index.html": "/index.html",
@@ -18,7 +18,7 @@
     "static/media/bscscan-logo-light-circle.svg": "/static/media/bscscan-logo-light-circle.04a16bf21cd324fa1574378859b7a166.svg"
   },
   "entrypoints": [
-    "static/css/main.030e71fc.css",
-    "static/js/main.cd8a5751.js"
+    "static/css/main.86c1fdf4.css",
+    "static/js/main.f566a047.js"
   ]
 }
