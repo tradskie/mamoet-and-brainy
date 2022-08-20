@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.86c1fdf4.css",
-    "main.js": "/static/js/main.f566a047.js",
+    "main.css": "/static/css/main.52298248.css",
+    "main.js": "/static/js/main.bd85c3d6.js",
     "static/media/cropsfarmer2.PNG": "/static/media/cropsfarmer2.a29a43e0e2e8591ba3fd.PNG",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -18,7 +18,7 @@
     "static/media/bscscan-logo-light-circle.svg": "/static/media/bscscan-logo-light-circle.04a16bf21cd324fa1574378859b7a166.svg"
   },
   "entrypoints": [
-    "static/css/main.86c1fdf4.css",
-    "static/js/main.f566a047.js"
+    "static/css/main.52298248.css",
+    "static/js/main.bd85c3d6.js"
   ]
 }
