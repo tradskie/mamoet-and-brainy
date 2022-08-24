@@ -1,15 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.d0a1a8f3.css",
-    "main.js": "/static/js/main.d4e04f4a.js",
+    "main.js": "/static/js/main.19dc5e5a.js",
     "static/media/cropsfarmer2.PNG": "/static/media/cropsfarmer2.ab5c317ed7fd409d5b50.PNG",
+    "static/media/dinogif.gif": "/static/media/dinogif.b1cd5c1cdb06afdcc7bf.gif",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/genesisv2.gif": "/static/media/genesisv2.25dfa88003c3ba0d1533.gif",
+    "static/media/crobfarmerllogo.png": "/static/media/crobfarmerllogo.3216deb83b5db3657763.png",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/jurassic.png": "/static/media/jurassic.e1dfc75093a98ddadd8d.png",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/intro-bg.PNG": "/static/media/intro-bg.45044b07c7cedf9aef28.PNG",
     "static/media/Dino.png": "/static/media/Dino.608600cca32d520cbe36.png",
+    "static/media/bsc.png": "/static/media/bsc.358a42f28d54cceff768.png",
     "static/media/intro-bg-phone.jpg": "/static/media/intro-bg-phone.a5a287b8926275adacca.jpg",
     "static/media/twitter.svg": "/static/media/twitter.38217ad956509e9a417a2d43a4b3da83.svg",
     "index.html": "/index.html",
@@ -18,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.d0a1a8f3.css",
-    "static/js/main.d4e04f4a.js"
+    "static/js/main.19dc5e5a.js"
   ]
 }
