@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d0a1a8f3.css",
-    "main.js": "/static/js/main.19dc5e5a.js",
+    "main.js": "/static/js/main.b05e7576.js",
     "static/media/cropsfarmer2.PNG": "/static/media/cropsfarmer2.ab5c317ed7fd409d5b50.PNG",
     "static/media/dinogif.gif": "/static/media/dinogif.b1cd5c1cdb06afdcc7bf.gif",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.d0a1a8f3.css",
-    "static/js/main.19dc5e5a.js"
+    "static/js/main.b05e7576.js"
   ]
 }
